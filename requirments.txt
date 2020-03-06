@@ -1,4 +1,0 @@
-Flask==1.0.2
-Flask-Cors==3.0.7
-twilio==6.35.1
-
