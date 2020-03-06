@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "My Personal Chat-Bot"
+    return "Chat-Bot"
 
 # call back url
 @app.route("/sms", methods=['POST'])
