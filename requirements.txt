@@ -1,3 +1,17 @@
 gunicorn
 Flask
 twilio
+certifi
+chardet
+Click
+idna
+itsdangerous
+jinja2
+Markupsafe
+PyJWT
+PySocks
+Pytz
+requests
+six
+urllib3
+werkzeug
