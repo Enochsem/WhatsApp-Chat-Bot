@@ -42,7 +42,7 @@ datashape==0.5.4
 decorator==4.3.0
 defusedxml==0.5.0
 dialogflow==0.8.0
-distributed==1.25.1
+distributed==2021.10.0
 docker==4.2.0
 docutils==0.14
 entrypoints==0.2.3
